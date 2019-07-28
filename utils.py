@@ -20,7 +20,7 @@ import urllib.request
 import shutil
 
 # URL from which to download the latest COCO trained weights
-COCO_MODEL_URL = "https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5"
+COCO_MODEL_URL = 'https://github.com/Superlee506/Mask_RCNN_Humanpose/releases/download/v0.9-alpha/mask_rcnn_coco_humanpose.h5'
 
 
 ############################################################
